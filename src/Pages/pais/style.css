@@ -1,0 +1,19 @@
+.detalhe{
+    grid-column: span 3;
+}
+
+
+main.paisc a{
+    grid-column: span 3;
+}
+
+
+.btn-home{
+    color: #ffffff;
+    background-color: var(--color-grey);
+    text-align: center;
+    border-radius: .5rem;
+    padding: .5rem;
+    margin: .5rem;
+}
+

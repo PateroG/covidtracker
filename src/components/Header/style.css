@@ -1,0 +1,16 @@
+header{
+    background-color: var(--color-grey);
+    width: 100%;
+    height: auto;
+    font-family: Rokkitt;
+    font-weight: normal;
+    font-size: 1.25vw;
+    line-height: 45px;
+    text-align: center;
+    color: #FFFFFF;   
+}
+
+h1{
+    font-size: 1.5rem;
+    font-weight: normal;
+}

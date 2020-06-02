@@ -1,0 +1,26 @@
+.pais{
+    background-color: var(--color-grey);
+    text-align: center;
+    color: #FFFF;
+    padding: 1.5rem;
+    margin: .5rem;
+    border-radius: .5rem;
+}
+
+.pais h2{
+    font-size: 1.25rem;
+    font-weight: normal;
+    margin-bottom: 1rem;
+}
+
+.pais .pais-info h3{
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+.pais .pais-info p{
+    font-size: 1rem;
+    font-weight: bold;
+    color: var(--color-blue);
+}
+
